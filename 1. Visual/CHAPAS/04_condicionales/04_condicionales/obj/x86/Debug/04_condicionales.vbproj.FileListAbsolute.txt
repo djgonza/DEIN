@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\bin\Debug\04_condicionales.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\bin\Debug\04_condicionales.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\bin\Debug\04_condicionales.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\obj\x86\Debug\_04_condicionales.frnCondicionales.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\obj\x86\Debug\_04_condicionales.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\obj\x86\Debug\04_condicionales.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\obj\x86\Debug\04_condicionales.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\obj\x86\Debug\04_condicionales.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\04_condicionales\04_condicionales\obj\x86\Debug\04_condicionales.pdb

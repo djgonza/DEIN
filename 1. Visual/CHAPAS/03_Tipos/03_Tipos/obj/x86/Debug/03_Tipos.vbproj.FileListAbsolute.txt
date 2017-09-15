@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\obj\x86\Debug\_03_Tipos.frnTipos.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\obj\x86\Debug\_03_Tipos.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\obj\x86\Debug\03_Tipos.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\bin\Debug\03_Tipos.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\bin\Debug\03_Tipos.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\bin\Debug\03_Tipos.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\obj\x86\Debug\03_Tipos.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\obj\x86\Debug\03_Tipos.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\03_Tipos\03_Tipos\obj\x86\Debug\03_Tipos.pdb

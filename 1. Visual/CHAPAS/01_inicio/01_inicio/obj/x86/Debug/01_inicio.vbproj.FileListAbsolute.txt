@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\bin\Debug\01_inicio.exe
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\bin\Debug\01_inicio.pdb
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\bin\Debug\01_inicio.xml
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\obj\x86\Debug\_01_inicio.frmInicio.resources
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\obj\x86\Debug\_01_inicio.Resources.resources
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\obj\x86\Debug\01_inicio.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\obj\x86\Debug\01_inicio.exe
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\obj\x86\Debug\01_inicio.xml
+C:\DAM\DEIN\1. Visual\01_inicio\01_inicio\obj\x86\Debug\01_inicio.pdb

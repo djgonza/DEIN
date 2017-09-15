@@ -1,0 +1,10 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\bin\Debug\02_variables.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\bin\Debug\02_variables.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\bin\Debug\02_variables.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\_02_variables.frnVariables.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\_02_variables.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\02_variables.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\02_variables.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\02_variables.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\02_variables.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\02_variables\02_variables\obj\x86\Debug\_02_variables.frnVariables2.resources
