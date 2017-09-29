@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\bin\Debug\Chapa08 Array de Control.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\bin\Debug\Chapa08 Array de Control.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\bin\Debug\Chapa08 Array de Control.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\obj\x86\Debug\Chapa08_Array_de_Control.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\obj\x86\Debug\Chapa08_Array_de_Control.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\obj\x86\Debug\Chapa08 Array de Control.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\obj\x86\Debug\Chapa08 Array de Control.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\obj\x86\Debug\Chapa08 Array de Control.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa08 Array de Control\Chapa08 Array de Control\obj\x86\Debug\Chapa08 Array de Control.pdb
