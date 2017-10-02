@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\bin\Debug\Chapa09_varios_2.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\bin\Debug\Chapa09_varios_2.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\bin\Debug\Chapa09_varios_2.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\obj\x86\Debug\Chapa09_varios_2.frnVarios.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\obj\x86\Debug\Chapa09_varios_2.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\obj\x86\Debug\Chapa09_varios_2.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\obj\x86\Debug\Chapa09_varios_2.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\obj\x86\Debug\Chapa09_varios_2.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa09_varios_2\Chapa09_varios_2\obj\x86\Debug\Chapa09_varios_2.pdb
