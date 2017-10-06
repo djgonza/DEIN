@@ -6,11 +6,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{3BF7E909-1921-4D52-AA0D-1466439ADCDE}</ProjectGuid>
+    <ProjectGuid>{F81BF63A-7560-46ED-ABFE-9BBE12455351}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Chapa09_varios_2.My.MyApplication</StartupObject>
-    <RootNamespace>Chapa09_varios_2</RootNamespace>
-    <AssemblyName>Chapa09_varios_2</AssemblyName>
+    <StartupObject>adivina.My.MyApplication</StartupObject>
+    <RootNamespace>adivina</RootNamespace>
+    <AssemblyName>adivina</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
@@ -23,7 +23,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Chapa09_varios_2.xml</DocumentationFile>
+    <DocumentationFile>adivina.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
@@ -33,7 +33,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Chapa09_varios_2.xml</DocumentationFile>
+    <DocumentationFile>adivina.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -85,6 +85,7 @@
     <Compile Include="Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
