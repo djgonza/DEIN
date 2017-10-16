@@ -1,0 +1,20 @@
+﻿.mibonLogin, .mibonBusqueda, .contactoSeccion, .mibonLogueado {display:none;}
+.anadir {display:none;}
+
+.descarga {display:none;}
+
+.entradilla img {float:right;clear:both;}
+.entradilla .intro {display:none;}
+.sumario .atajoSumario{display:none;}
+
+#contenido h1 a {color:#000;text-decoration:none;}
+
+.anuncio .seccionActual ul.listado {display:none;}
+
+p {margin:.5em 0 .6em 0;}
+.foral-f-parrafo-c , .foral-f-parrafo-3lineas-t5-c , .foral-f-parrafo-centrado-c , .foral-f-firma-c , .estado-e-parrafo-c , .estado-e-parrafo-3lineas-t5-c , .estado-e-parrafo-centrado-c , .justicia-j-parrafo-c , .justicia-j-parrafo-3lineas-t5-c ,  .justicia-j-parrafo-centrado-c , .anuncios-a-parrafo-c , .anuncios-a-parrafo-3lineas-t5-c , .anuncios-a-parrafo-centrado-c {margin:.5em 0;}
+
+.anuncios-a-titulo2-t2-c, .estado-e-titulo2-t2-c, .foral-f-titulo2-t2-c, .justicia-j-titulo2-t2-c, .anuncios-a-titulo2-t2-bis-c, .estado-e-titulo2-t2-bis-c, .foral-f-titulo2-t2-bis-c, .justicia-j-titulo2-t2-bis-c {margin:1em 0 .6em;padding:0;font-size:1.1em;}
+
+.foral-f-titulo3-t6-c, .estado-e-titulo3-t6-c, .justicia-j-titulo3-t6-c, .estado-e-titulo3-blanco-t12-c, .justicia-j-titulo3-blanco-t12-c, .anuncios-a-titulo3-blanco-t12-c {margin:-.7em 0 .3em;color:#333;}
+

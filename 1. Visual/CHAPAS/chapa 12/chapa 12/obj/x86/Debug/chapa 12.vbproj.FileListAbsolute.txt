@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\bin\Debug\chapa 12.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\bin\Debug\chapa 12.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\bin\Debug\chapa 12.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\obj\x86\Debug\chapa_12.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\obj\x86\Debug\chapa_12.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\obj\x86\Debug\chapa 12.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\obj\x86\Debug\chapa 12.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\obj\x86\Debug\chapa 12.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 12\chapa 12\obj\x86\Debug\chapa 12.pdb
