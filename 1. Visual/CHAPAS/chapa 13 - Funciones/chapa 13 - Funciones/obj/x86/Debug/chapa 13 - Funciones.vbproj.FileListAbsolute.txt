@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\bin\Debug\chapa 13 - Funciones.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\bin\Debug\chapa 13 - Funciones.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\bin\Debug\chapa 13 - Funciones.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\obj\x86\Debug\chapa_13___Funciones.frnFunciones.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\obj\x86\Debug\chapa_13___Funciones.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\obj\x86\Debug\chapa 13 - Funciones.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\obj\x86\Debug\chapa 13 - Funciones.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\obj\x86\Debug\chapa 13 - Funciones.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\chapa 13 - Funciones\chapa 13 - Funciones\obj\x86\Debug\chapa 13 - Funciones.pdb
