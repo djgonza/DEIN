@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\bin\Debug\Chapa 14 - Varios3.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\bin\Debug\Chapa 14 - Varios3.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\bin\Debug\Chapa 14 - Varios3.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\obj\x86\Debug\Chapa_14___Varios3.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\obj\x86\Debug\Chapa_14___Varios3.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\obj\x86\Debug\Chapa 14 - Varios3.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\obj\x86\Debug\Chapa 14 - Varios3.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\obj\x86\Debug\Chapa 14 - Varios3.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 14 - Varios3\Chapa 14 - Varios3\obj\x86\Debug\Chapa 14 - Varios3.pdb
