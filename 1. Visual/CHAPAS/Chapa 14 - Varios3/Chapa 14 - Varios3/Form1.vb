@@ -77,4 +77,30 @@
         PictureBox1.Image = Image.FromFile(Application.StartupPath & "\Cosas\cuervo.jpg")
         RichTextBox1.LoadFile(Application.StartupPath & "\Cosas\cuervo.rtf")
     End Sub
+
+    Private Sub MenuStrip1_ItemClicked(sender As System.Object, e As System.Windows.Forms.ToolStripItemClickedEventArgs) Handles mnuPrincipal.ItemClicked
+
+    End Sub
+
+    Private Sub CerrarToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles CerrarToolStripMenuItem.Click
+        MessageBox.Show("CERRAR")
+        Me.Close()
+    End Sub
+
+    Private Sub btnMessage_Click(sender As System.Object, e As System.EventArgs) Handles btnMessage.Click
+        'MessageBox.Show("wrregr", "AVISO")
+        Dim respuesta As DialogResult
+
+        respuesta = MessageBox.Show("Te has divertido?", "AVISO", MessageBoxButtons.YesNo, MessageBoxIcon.Warning)
+
+        If respuesta = Windows.Forms.DialogResult.Yes Then
+            MessageBox.Show("SI")
+        Else
+            MessageBox.Show("NO")
+        End If
+    End Sub
+
+    Private Sub Button1_Click_1(sender As System.Object, e As System.EventArgs) Handles btnPosi.Click
+        MessageBox.Show(hsScroll.Value)
+    End Sub
 End Class

@@ -37,7 +37,7 @@ Partial Class frnAtletas
         Me.Label6 = New System.Windows.Forms.Label()
         Me.btnSalto = New System.Windows.Forms.Button()
         Me.gpbValidez = New System.Windows.Forms.GroupBox()
-        Me.RadioButton1 = New System.Windows.Forms.RadioButton()
+        Me.rbtValido = New System.Windows.Forms.RadioButton()
         Me.rbtNulo = New System.Windows.Forms.RadioButton()
         Me.lstSalto3 = New System.Windows.Forms.ListBox()
         Me.lstSalto2 = New System.Windows.Forms.ListBox()
@@ -202,7 +202,7 @@ Partial Class frnAtletas
         '
         'gpbValidez
         '
-        Me.gpbValidez.Controls.Add(Me.RadioButton1)
+        Me.gpbValidez.Controls.Add(Me.rbtValido)
         Me.gpbValidez.Controls.Add(Me.rbtNulo)
         Me.gpbValidez.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, CType(((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic) _
                 Or System.Drawing.FontStyle.Underline), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -213,16 +213,16 @@ Partial Class frnAtletas
         Me.gpbValidez.TabStop = False
         Me.gpbValidez.Text = "Validez del salto"
         '
-        'RadioButton1
+        'rbtValido
         '
-        Me.RadioButton1.AutoSize = True
-        Me.RadioButton1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.RadioButton1.Location = New System.Drawing.Point(159, 39)
-        Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(65, 21)
-        Me.RadioButton1.TabIndex = 1
-        Me.RadioButton1.Text = "Valido"
-        Me.RadioButton1.UseVisualStyleBackColor = True
+        Me.rbtValido.AutoSize = True
+        Me.rbtValido.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.rbtValido.Location = New System.Drawing.Point(159, 39)
+        Me.rbtValido.Name = "rbtValido"
+        Me.rbtValido.Size = New System.Drawing.Size(65, 21)
+        Me.rbtValido.TabIndex = 1
+        Me.rbtValido.Text = "Valido"
+        Me.rbtValido.UseVisualStyleBackColor = True
         '
         'rbtNulo
         '
@@ -331,7 +331,7 @@ Partial Class frnAtletas
     Friend WithEvents lstSalto2 As System.Windows.Forms.ListBox
     Friend WithEvents lstSalto1 As System.Windows.Forms.ListBox
     Friend WithEvents btnSalto As System.Windows.Forms.Button
-    Friend WithEvents RadioButton1 As System.Windows.Forms.RadioButton
+    Friend WithEvents rbtValido As System.Windows.Forms.RadioButton
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents btnSalir As System.Windows.Forms.Button
     Friend WithEvents Label7 As System.Windows.Forms.Label
