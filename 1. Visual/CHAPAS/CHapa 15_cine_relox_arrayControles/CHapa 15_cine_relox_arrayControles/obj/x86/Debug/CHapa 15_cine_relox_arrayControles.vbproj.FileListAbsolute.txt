@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\bin\Debug\CHapa 15_cine_relox_arrayControles.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\bin\Debug\CHapa 15_cine_relox_arrayControles.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\bin\Debug\CHapa 15_cine_relox_arrayControles.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\obj\x86\Debug\CHapa_15_cine_relox_arrayControles.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\obj\x86\Debug\CHapa_15_cine_relox_arrayControles.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\obj\x86\Debug\CHapa 15_cine_relox_arrayControles.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\obj\x86\Debug\CHapa 15_cine_relox_arrayControles.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\obj\x86\Debug\CHapa 15_cine_relox_arrayControles.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\CHapa 15_cine_relox_arrayControles\CHapa 15_cine_relox_arrayControles\obj\x86\Debug\CHapa 15_cine_relox_arrayControles.pdb
