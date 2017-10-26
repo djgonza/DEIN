@@ -46,17 +46,12 @@
             lstSala3.Items.Add(maxSala3)
             lstSala4.Items.Add(maxSala4)
         Next
+
     End Sub
    
-    Private Sub rbtSala1_Click(sender As Object, e As System.EventArgs) Handles rbtSala1.Click, rbtSala2.Click, rbtSala3.Click, rbtSala4.Click
-        Dim indice As Integer = Array.IndexOf(salas, sender)
-        asientos(indice).SelectedIndex = False
-        asientos(indice).SelectedIndex = 0
+    Private Sub rbtSala1_Click(sender As Object, e As System.EventArgs) Handles rbtSala1.Click, rbtSala2.Click, rbtSala3.Click, rbtSala4.Click, rbtCinco.Click, rbtSiete.Click, rbtDiez.Click
+        
     End Sub
 
 
-    Private Sub rbtCinco_Click(sender As Object, e As System.EventArgs) Handles rbtCinco.Click, rbtSiete.Click, rbtDiez.Click
-        Dim indice As Integer = Array.IndexOf(horarios, sender)
-        asientos(indice).SelectedIndex = True
-    End Sub
 End Class
