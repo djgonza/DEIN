@@ -5,12 +5,12 @@
     Const maxSala3 As Integer = 120
     Const maxSala4 As Integer = 100
 
-    Dim x As Integer = 1
+    Private salas(3) As RadioButton
+    Private horarios(2) As RadioButton
+    Private asientos(3) As ListBox
 
-    Dim salas(4) As RadioButton
-    Dim horarios(3) As RadioButton
-
-    Dim asientos(4) As ListBox
+    Dim s As Integer = 0
+    Dim h As Integer = 0
 
     Private Sub btnSalir_Click(sender As System.Object, e As System.EventArgs) Handles btnSalir.Click
         Me.Close()
@@ -47,11 +47,63 @@
             lstSala4.Items.Add(maxSala4)
         Next
 
+        asientos(0).SelectedIndex = 0
+
+
     End Sub
    
-    Private Sub rbtSala1_Click(sender As Object, e As System.EventArgs) Handles rbtSala1.Click, rbtSala2.Click, rbtSala3.Click, rbtSala4.Click, rbtCinco.Click, rbtSiete.Click, rbtDiez.Click
-        
+    Private Sub rbtSala1_Click(sender As Object, e As System.EventArgs) Handles rbtSala1.Click, rbtSala2.Click, rbtSala3.Click, rbtSala4.Click
+        Dim indice As Integer = Array.IndexOf(salas, sender)
+        deseleccionar()
+        s = indice
+        seleccionar()
     End Sub
 
+    Sub deseleccionar()
+        asientos(s).SelectedIndex = -1
+    End Sub
 
+    Sub seleccionar()
+        asientos(s).SelectedIndex = h
+    End Sub
+    
+    Private Sub rbtCinco_Click(sender As Object, e As System.EventArgs) Handles rbtCinco.Click, rbtSiete.Click, rbtDiez.Click
+        Dim indice As Integer = Array.IndexOf(horarios, sender)
+        deseleccionar()
+        h = indice
+        seleccionar()
+    End Sub
+
+    Private Sub txtEntradas_KeyPress(sender As Object, e As System.Windows.Forms.KeyPressEventArgs) Handles txtEntradas.KeyPress
+        If Not (e.KeyChar Like "[0-9]") And AscW(e.KeyChar) <> Keys.Back Then
+            e.Handled = True
+        End If
+    End Sub
+   
+    Private Sub btnVenta_Click(sender As System.Object, e As System.EventArgs) Handles btnVenta.Click
+        Dim entradas As Integer = CInt(txtEntradas.Text)
+        Dim quedan As Integer = salas(s).Text
+        Dim max As Integer
+
+        Select Case s
+            Case 0
+                max = maxSala1
+            Case 1
+                max = maxSala2
+            Case 2
+                max = maxSala3
+            Case Else
+                max = maxSala4
+        End Select
+
+        If entradas > max or Then
+            MessageBox.Show("No hay suficientes entradas)
+        Else
+            Dim e As Integer = 
+        End If
+    End Sub
+
+    Private Sub btnDevolucion_Click(sender As System.Object, e As System.EventArgs) Handles btnDevolucion.Click
+
+    End Sub
 End Class
