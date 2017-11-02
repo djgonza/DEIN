@@ -96,7 +96,7 @@
                 max = maxSala4
         End Select
 
-        If entradas > max or Then
+        If entradas > max Then
             MessageBox.Show("No hay suficientes entradas)
         Else
             Dim e As Integer = 

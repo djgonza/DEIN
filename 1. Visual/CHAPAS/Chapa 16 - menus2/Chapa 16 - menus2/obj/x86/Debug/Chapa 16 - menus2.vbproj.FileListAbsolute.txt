@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\bin\Debug\Chapa 16 - menus2.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\bin\Debug\Chapa 16 - menus2.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\bin\Debug\Chapa 16 - menus2.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\obj\x86\Debug\Chapa_16___menus2.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\obj\x86\Debug\Chapa_16___menus2.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\obj\x86\Debug\Chapa 16 - menus2.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\obj\x86\Debug\Chapa 16 - menus2.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\obj\x86\Debug\Chapa 16 - menus2.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 16 - menus2\Chapa 16 - menus2\obj\x86\Debug\Chapa 16 - menus2.pdb
