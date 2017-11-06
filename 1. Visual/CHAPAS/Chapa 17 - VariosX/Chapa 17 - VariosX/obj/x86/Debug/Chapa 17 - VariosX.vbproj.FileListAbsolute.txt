@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\bin\Debug\Chapa 17 - VariosX.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\bin\Debug\Chapa 17 - VariosX.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\bin\Debug\Chapa 17 - VariosX.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\obj\x86\Debug\Chapa_17___VariosX.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\obj\x86\Debug\Chapa_17___VariosX.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\obj\x86\Debug\Chapa 17 - VariosX.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\obj\x86\Debug\Chapa 17 - VariosX.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\obj\x86\Debug\Chapa 17 - VariosX.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 17 - VariosX\Chapa 17 - VariosX\obj\x86\Debug\Chapa 17 - VariosX.pdb

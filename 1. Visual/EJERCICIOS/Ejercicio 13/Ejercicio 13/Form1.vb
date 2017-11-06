@@ -8,6 +8,7 @@
     Private salas(3) As RadioButton
     Private horarios(2) As RadioButton
     Private asientos(3) As ListBox
+    Private aforo() As Integer = {maxSala1, maxSala2, maxSala3, maxSala4}
 
     Dim s As Integer = 0
     Dim h As Integer = 0
@@ -85,22 +86,9 @@
         Dim quedan As Integer = salas(s).Text
         Dim max As Integer
 
-        Select Case s
-            Case 0
-                max = maxSala1
-            Case 1
-                max = maxSala2
-            Case 2
-                max = maxSala3
-            Case Else
-                max = maxSala4
-        End Select
+        max = aforo(s)
 
-        If entradas > max Then
-            MessageBox.Show("No hay suficientes entradas)
-        Else
-            Dim e As Integer = 
-        End If
+        
     End Sub
 
     Private Sub btnDevolucion_Click(sender As System.Object, e As System.EventArgs) Handles btnDevolucion.Click
