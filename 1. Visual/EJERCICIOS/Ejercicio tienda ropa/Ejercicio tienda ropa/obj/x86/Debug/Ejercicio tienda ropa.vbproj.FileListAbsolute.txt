@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\bin\Debug\Ejercicio tienda ropa.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\bin\Debug\Ejercicio tienda ropa.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\bin\Debug\Ejercicio tienda ropa.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\obj\x86\Debug\Ejercicio_tienda_ropa.frnTienda.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\obj\x86\Debug\Ejercicio_tienda_ropa.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\obj\x86\Debug\Ejercicio tienda ropa.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\obj\x86\Debug\Ejercicio tienda ropa.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\obj\x86\Debug\Ejercicio tienda ropa.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio tienda ropa\Ejercicio tienda ropa\obj\x86\Debug\Ejercicio tienda ropa.pdb

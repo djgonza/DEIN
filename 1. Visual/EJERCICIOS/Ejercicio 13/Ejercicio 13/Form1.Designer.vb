@@ -52,8 +52,15 @@ Partial Class frnMulticines
         Me.btnVenta = New System.Windows.Forms.Button()
         Me.btnDevolucion = New System.Windows.Forms.Button()
         Me.btnSalir = New System.Windows.Forms.Button()
+        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
+        Me.ArchivoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.CambioDePelículaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripMenuItem1 = New System.Windows.Forms.ToolStripSeparator()
+        Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.mnuPelicula = New System.Windows.Forms.ToolStripMenuItem()
         Me.gpbSala.SuspendLayout()
         Me.GroupBox1.SuspendLayout()
+        Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'lblTitulo
@@ -83,7 +90,6 @@ Partial Class frnMulticines
         Me.txtPeli1.Name = "txtPeli1"
         Me.txtPeli1.Size = New System.Drawing.Size(127, 26)
         Me.txtPeli1.TabIndex = 2
-        Me.txtPeli1.Text = "IT"
         Me.txtPeli1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txtPeli2
@@ -93,7 +99,6 @@ Partial Class frnMulticines
         Me.txtPeli2.Name = "txtPeli2"
         Me.txtPeli2.Size = New System.Drawing.Size(154, 26)
         Me.txtPeli2.TabIndex = 4
-        Me.txtPeli2.Text = "El guardián invisible"
         Me.txtPeli2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label2
@@ -112,7 +117,6 @@ Partial Class frnMulticines
         Me.txtPeli3.Name = "txtPeli3"
         Me.txtPeli3.Size = New System.Drawing.Size(145, 26)
         Me.txtPeli3.TabIndex = 6
-        Me.txtPeli3.Text = "Blade Runner 2049"
         Me.txtPeli3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label3
@@ -131,7 +135,6 @@ Partial Class frnMulticines
         Me.txtPeli4.Name = "txtPeli4"
         Me.txtPeli4.Size = New System.Drawing.Size(223, 26)
         Me.txtPeli4.TabIndex = 8
-        Me.txtPeli4.Text = "Kingsman: El circulo de oro"
         Me.txtPeli4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Label4
@@ -357,6 +360,45 @@ Partial Class frnMulticines
         Me.btnSalir.Text = "&Salir"
         Me.btnSalir.UseVisualStyleBackColor = True
         '
+        'MenuStrip1
+        '
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ArchivoToolStripMenuItem, Me.mnuPelicula})
+        Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
+        Me.MenuStrip1.Name = "MenuStrip1"
+        Me.MenuStrip1.Size = New System.Drawing.Size(810, 24)
+        Me.MenuStrip1.TabIndex = 23
+        Me.MenuStrip1.Text = "MenuStrip1"
+        '
+        'ArchivoToolStripMenuItem
+        '
+        Me.ArchivoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CambioDePelículaToolStripMenuItem, Me.ToolStripMenuItem1, Me.SalirToolStripMenuItem})
+        Me.ArchivoToolStripMenuItem.Name = "ArchivoToolStripMenuItem"
+        Me.ArchivoToolStripMenuItem.Size = New System.Drawing.Size(60, 20)
+        Me.ArchivoToolStripMenuItem.Text = "&Archivo"
+        '
+        'CambioDePelículaToolStripMenuItem
+        '
+        Me.CambioDePelículaToolStripMenuItem.Name = "CambioDePelículaToolStripMenuItem"
+        Me.CambioDePelículaToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
+        Me.CambioDePelículaToolStripMenuItem.Text = "&Cambio de Película"
+        '
+        'ToolStripMenuItem1
+        '
+        Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(173, 6)
+        '
+        'SalirToolStripMenuItem
+        '
+        Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
+        Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(176, 22)
+        Me.SalirToolStripMenuItem.Text = "&Salir"
+        '
+        'mnuPelicula
+        '
+        Me.mnuPelicula.Name = "mnuPelicula"
+        Me.mnuPelicula.Size = New System.Drawing.Size(60, 20)
+        Me.mnuPelicula.Text = "&Pelicula"
+        '
         'frnMulticines
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
@@ -385,14 +427,18 @@ Partial Class frnMulticines
         Me.Controls.Add(Me.txtPeli1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.lblTitulo)
+        Me.Controls.Add(Me.MenuStrip1)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.MainMenuStrip = Me.MenuStrip1
         Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frnMulticines"
-        Me.Text = "Form1"
+        Me.Text = "MULTICINES"
         Me.gpbSala.ResumeLayout(False)
         Me.gpbSala.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
+        Me.MenuStrip1.ResumeLayout(False)
+        Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -427,5 +473,11 @@ Partial Class frnMulticines
     Friend WithEvents btnVenta As System.Windows.Forms.Button
     Friend WithEvents btnDevolucion As System.Windows.Forms.Button
     Friend WithEvents btnSalir As System.Windows.Forms.Button
+    Friend WithEvents MenuStrip1 As System.Windows.Forms.MenuStrip
+    Friend WithEvents ArchivoToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents CambioDePelículaToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ToolStripMenuItem1 As System.Windows.Forms.ToolStripSeparator
+    Friend WithEvents SalirToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents mnuPelicula As System.Windows.Forms.ToolStripMenuItem
 
 End Class

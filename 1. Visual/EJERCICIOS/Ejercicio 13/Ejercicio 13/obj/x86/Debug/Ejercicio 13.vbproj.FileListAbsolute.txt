@@ -7,3 +7,4 @@ C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio 13\Ejercicio 13\obj\x86\Debug\Ejercic
 C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio 13\Ejercicio 13\obj\x86\Debug\Ejercicio 13.exe
 C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio 13\Ejercicio 13\obj\x86\Debug\Ejercicio 13.xml
 C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio 13\Ejercicio 13\obj\x86\Debug\Ejercicio 13.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio 13\Ejercicio 13\obj\x86\Debug\Ejercicio_13.frnCambioPelicula.resources

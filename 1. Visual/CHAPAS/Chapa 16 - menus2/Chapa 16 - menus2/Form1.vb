@@ -1,9 +1,5 @@
 ﻿Public Class Form1
 
-    Private Sub ArchivoToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles ArchivoToolStripMenuItem.Click
-
-    End Sub
-
     Private Sub ArchivoToolStripMenuItem1_Click(sender As System.Object, e As System.EventArgs) Handles ArchivoToolStripMenuItem1.Click
         MessageBox.Show("archivo")
     End Sub

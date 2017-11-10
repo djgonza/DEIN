@@ -1,0 +1,10 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\bin\Debug\Chapa 18 - Cajas de dialogo.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\bin\Debug\Chapa 18 - Cajas de dialogo.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\bin\Debug\Chapa 18 - Cajas de dialogo.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa_18___Cajas_de_dialogo.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa_18___Cajas_de_dialogo.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa 18 - Cajas de dialogo.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa 18 - Cajas de dialogo.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa 18 - Cajas de dialogo.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa 18 - Cajas de dialogo.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\Chapa 18 - Cajas de dialogo\Chapa 18 - Cajas de dialogo\obj\x86\Debug\Chapa_18___Cajas_de_dialogo.frnPalabraClave.resources

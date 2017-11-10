@@ -9,6 +9,7 @@
     Private horarios(2) As RadioButton
     Private asientos(3) As ListBox
     Private aforo() As Integer = {maxSala1, maxSala2, maxSala3, maxSala4}
+    Public film() As String = {"IT", "El guardian invisible", "Blade Runner 2049", "Kingsman: El círculo de oro"}
 
     Dim s As Integer = 0
     Dim h As Integer = 0
@@ -18,7 +19,6 @@
     End Sub
     
     Private Sub frnMulticines_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-
         'Nombre de la sala
         Dim nombre As String = InputBox("Introduce nombre de la sala")
         Dim nombreCompleto As String = lblTitulo.Text + " " + nombre
@@ -49,8 +49,37 @@
         Next
 
         asientos(0).SelectedIndex = 0
+        cargarPeliculas()
+        menuPeliculas()
+    End Sub
 
+    Sub cargarPeliculas()
 
+        txtPeli1.Text = film(0)
+        txtPeli2.Text = film(1)
+        txtPeli3.Text = film(2)
+        txtPeli4.Text = film(3)
+
+    End Sub
+
+    Sub menuPeliculas()
+        Dim titulo As String
+        Dim indiceUltimo As Integer = mnuPelicula.DropDownItems.Count
+
+        If indiceUltimo <> 0 Then
+            MessageBox.Show(indiceUltimo)
+            While indiceUltimo > 0
+                mnuPelicula.DropDownItems.RemoveAt(indiceUltimo - 1)
+                indiceUltimo -= 1
+            End While
+        End If
+
+        For i As Integer = 0 To film.Length - 1
+            titulo = film(i)
+            Dim elemento As ToolStripMenuItem = New ToolStripMenuItem(titulo)
+
+            mnuPelicula.DropDownItems.Add(elemento)
+        Next
     End Sub
    
     Private Sub rbtSala1_Click(sender As Object, e As System.EventArgs) Handles rbtSala1.Click, rbtSala2.Click, rbtSala3.Click, rbtSala4.Click
@@ -83,15 +112,32 @@
    
     Private Sub btnVenta_Click(sender As System.Object, e As System.EventArgs) Handles btnVenta.Click
         Dim entradas As Integer = CInt(txtEntradas.Text)
-        Dim quedan As Integer = salas(s).Text
-        Dim max As Integer
+        Dim pos As Integer = asientos(s).SelectedIndex
+        Dim disponibles As Integer = CInt(asientos(s).Items.Item(pos))
 
-        max = aforo(s)
+        If entradas > disponibles Then
+            MessageBox.Show("Lo sentimos, pero en nº de asientos disponibles es de: " + CStr(disponibles))
+        Else
+            disponibles -= entradas
+            asientos(s).Items.Item(pos) = disponibles
+        End If
 
-        
     End Sub
 
     Private Sub btnDevolucion_Click(sender As System.Object, e As System.EventArgs) Handles btnDevolucion.Click
+        Dim entradas As Integer = CInt(txtEntradas.Text)
+        Dim pos As Integer = asientos(s).SelectedIndex
+        Dim sillones As Integer = CInt(asientos(s).Items.Item(pos))
 
+        If entradas + sillones > aforo(s) Then
+            MessageBox.Show("Lo sentimos, aforo máximo de la sala es de: " + CStr(aforo(s)))
+        Else
+            sillones += entradas
+            asientos(s).Items.Item(pos) = sillones
+        End If
+    End Sub
+
+    Private Sub CambioDePelículaToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles CambioDePelículaToolStripMenuItem.Click
+        frnCambioPelicula.Show()
     End Sub
 End Class
