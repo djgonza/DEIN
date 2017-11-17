@@ -1,0 +1,11 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\bin\Debug\Larrion.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\bin\Debug\Larrion.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.frnPrincipal.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.frnMedallero.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\bin\Debug\Larrion.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Larrion\Larrion\obj\x86\Debug\Larrion.frnClasi.resources

@@ -140,4 +140,6 @@
     Private Sub CambioDePelículaToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles CambioDePelículaToolStripMenuItem.Click
         frnCambioPelicula.Show()
     End Sub
+
+    
 End Class

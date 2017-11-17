@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\bin\Debug\Ejercicio seleccion multiple.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\bin\Debug\Ejercicio seleccion multiple.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\bin\Debug\Ejercicio seleccion multiple.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\obj\x86\Debug\Ejercicio_seleccion_multiple.Form1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\obj\x86\Debug\Ejercicio_seleccion_multiple.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\obj\x86\Debug\Ejercicio seleccion multiple.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\obj\x86\Debug\Ejercicio seleccion multiple.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\obj\x86\Debug\Ejercicio seleccion multiple.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Ejercicio seleccion multiple\Ejercicio seleccion multiple\obj\x86\Debug\Ejercicio seleccion multiple.pdb

@@ -41,7 +41,7 @@ Partial Class frnTienda
         Me.Label5 = New System.Windows.Forms.Label()
         Me.gpbUnidades = New System.Windows.Forms.GroupBox()
         Me.Label6 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.txtMostrar = New System.Windows.Forms.TextBox()
         Me.btnComprar = New System.Windows.Forms.Button()
         Me.gpbNew = New System.Windows.Forms.GroupBox()
         Me.txtUniAña = New System.Windows.Forms.TextBox()
@@ -224,15 +224,16 @@ Partial Class frnTienda
         Me.Label6.TabIndex = 31
         Me.Label6.Text = "Articulo --- Unidades --- Total a Pagar"
         '
-        'TextBox1
+        'txtMostrar
         '
-        Me.TextBox1.Location = New System.Drawing.Point(15, 282)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(378, 20)
-        Me.TextBox1.TabIndex = 32
+        Me.txtMostrar.Location = New System.Drawing.Point(15, 282)
+        Me.txtMostrar.Name = "txtMostrar"
+        Me.txtMostrar.Size = New System.Drawing.Size(378, 20)
+        Me.txtMostrar.TabIndex = 32
         '
         'btnComprar
         '
+        Me.btnComprar.Enabled = False
         Me.btnComprar.Location = New System.Drawing.Point(399, 264)
         Me.btnComprar.Name = "btnComprar"
         Me.btnComprar.Size = New System.Drawing.Size(135, 58)
@@ -264,6 +265,7 @@ Partial Class frnTienda
         Me.txtUniAña.Name = "txtUniAña"
         Me.txtUniAña.Size = New System.Drawing.Size(100, 20)
         Me.txtUniAña.TabIndex = 29
+        Me.txtUniAña.Text = "10"
         '
         'txtPrecio
         '
@@ -350,7 +352,7 @@ Partial Class frnTienda
         Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.gpbNew)
         Me.Controls.Add(Me.btnComprar)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.txtMostrar)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.gpbUnidades)
         Me.Controls.Add(Me.Label5)
@@ -395,7 +397,7 @@ Partial Class frnTienda
     Friend WithEvents Label5 As System.Windows.Forms.Label
     Friend WithEvents gpbUnidades As System.Windows.Forms.GroupBox
     Friend WithEvents Label6 As System.Windows.Forms.Label
-    Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents txtMostrar As System.Windows.Forms.TextBox
     Friend WithEvents btnComprar As System.Windows.Forms.Button
     Friend WithEvents gpbNew As System.Windows.Forms.GroupBox
     Friend WithEvents btnSalir As System.Windows.Forms.Button
