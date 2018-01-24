@@ -1,0 +1,12 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\bin\Debug\Test.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\bin\Debug\Test.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\bin\Debug\Test.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\bin\Debug\UT2_ProyectoVacio.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\bin\Debug\UT2_ProyectoVacio.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache

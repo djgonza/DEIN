@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\bin\Debug\UT2-Chapa_01.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\bin\Debug\UT2-Chapa_01.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\bin\Debug\UT2-Chapa_01.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\obj\x86\Debug\UT2_Chapa_01.frnClases.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\obj\x86\Debug\UT2_Chapa_01.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\obj\x86\Debug\UT2-Chapa_01.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\obj\x86\Debug\UT2-Chapa_01.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\obj\x86\Debug\UT2-Chapa_01.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_01\UT2-Chapa_01\obj\x86\Debug\UT2-Chapa_01.pdb

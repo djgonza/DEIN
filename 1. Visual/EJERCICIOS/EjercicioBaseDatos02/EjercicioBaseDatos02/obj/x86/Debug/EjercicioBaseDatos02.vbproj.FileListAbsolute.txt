@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\bin\Debug\EjercicioBaseDatos02.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\bin\Debug\EjercicioBaseDatos02.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\bin\Debug\EjercicioBaseDatos02.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\obj\x86\Debug\EjercicioBaseDatos02.frnEjercicio02.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\obj\x86\Debug\EjercicioBaseDatos02.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\obj\x86\Debug\EjercicioBaseDatos02.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\obj\x86\Debug\EjercicioBaseDatos02.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\obj\x86\Debug\EjercicioBaseDatos02.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos02\EjercicioBaseDatos02\obj\x86\Debug\EjercicioBaseDatos02.pdb

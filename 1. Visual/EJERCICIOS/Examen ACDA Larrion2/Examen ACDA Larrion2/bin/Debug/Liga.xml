@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<liga_2012>
+  <lista_equipos>
+    <equipo>
+      <nombre>Real Zaragoza</nombre>
+      <ciudad>Zaragoza</ciudad>
+      <entrenador>M. Jiménez</entrenador>
+      <plantilla_jugadores>
+        <jugador>
+          <nombre>Postiga</nombre>
+          <posicion>delantero</posicion>
+          <nacionalidad>Portugal</nacionalidad>
+        </jugador>
+        <jugador>
+          <nombre>Apoño</nombre>
+          <posicion>centrocampista</posicion>
+          <nacionalidad>España</nacionalidad>
+        </jugador>
+        <jugador>
+          <nombre>Fulanito</nombre>
+          <posicion>portero</posicion>
+          <nacionalidad>España</nacionalidad>
+        </jugador>
+      </plantilla_jugadores>
+    </equipo>
+    <equipo>
+      <nombre>Real Madrid</nombre>
+      <ciudad>Madrid</ciudad>
+      <entrenador>J. Mourinho</entrenador>
+      <plantilla_jugadores>
+        <jugador>
+          <nombre>Casillas</nombre>
+          <posicion>portero</posicion>
+          <nacionalidad>España</nacionalidad>
+        </jugador>
+        <jugador>
+          <nombre>C. Ronaldo</nombre>
+          <posicion>delantero</posicion>
+          <nacionalidad>Portugal</nacionalidad>
+        </jugador>
+        <jugador>
+          <nombre>Kaká</nombre>
+          <posicion>centrocampista</posicion>
+          <nacionalidad>Brasil</nacionalidad>
+        </jugador>
+      </plantilla_jugadores>
+    </equipo>
+  </lista_equipos>
+</liga_2012>

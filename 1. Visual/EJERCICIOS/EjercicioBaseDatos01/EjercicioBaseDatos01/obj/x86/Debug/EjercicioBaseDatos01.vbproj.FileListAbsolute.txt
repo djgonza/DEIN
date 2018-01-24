@@ -1,0 +1,11 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.Form1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.frnPedidos.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\bin\Debug\EjercicioBaseDatos01.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\bin\Debug\EjercicioBaseDatos01.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\bin\Debug\EjercicioBaseDatos01.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos01\EjercicioBaseDatos01\obj\x86\Debug\EjercicioBaseDatos01.frnDisco.resources

@@ -1,0 +1,8 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\bin\Debug\FiguraGeometrica.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\bin\Debug\FiguraGeometrica.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\bin\Debug\FiguraGeometrica.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\obj\Debug\FiguraGeometrica.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\obj\Debug\FiguraGeometrica.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\obj\Debug\FiguraGeometrica.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\obj\Debug\FiguraGeometrica.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\FiguraGeometrica\obj\Debug\FiguraGeometrica.pdb

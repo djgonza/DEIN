@@ -1,0 +1,8 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\bin\Debug\UT2-Chapa_03-Clases III-Libreria.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\bin\Debug\UT2-Chapa_03-Clases III-Libreria.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\bin\Debug\UT2-Chapa_03-Clases III-Libreria.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\obj\Debug\UT2_Chapa_03_Clases_III_Libreria.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\obj\Debug\UT2-Chapa_03-Clases III-Libreria.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\obj\Debug\UT2-Chapa_03-Clases III-Libreria.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\obj\Debug\UT2-Chapa_03-Clases III-Libreria.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III-Libreria\UT2-Chapa_03-Clases III-Libreria\obj\Debug\UT2-Chapa_03-Clases III-Libreria.pdb

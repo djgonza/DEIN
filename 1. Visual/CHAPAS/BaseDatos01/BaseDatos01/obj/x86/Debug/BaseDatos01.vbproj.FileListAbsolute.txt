@@ -1,0 +1,10 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\bin\Debug\BaseDatos01.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\bin\Debug\BaseDatos01.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\bin\Debug\BaseDatos01.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.frnBaseDatos01.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\BaseDatos01\BaseDatos01\obj\x86\Debug\BaseDatos01.frmPedidos.resources

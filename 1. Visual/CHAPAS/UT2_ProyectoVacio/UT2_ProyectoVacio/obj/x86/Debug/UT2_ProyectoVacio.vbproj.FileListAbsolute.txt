@@ -1,0 +1,4 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\UT2_ProyectoVacio\bin\Debug\UT2_ProyectoVacio.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\UT2_ProyectoVacio\bin\Debug\UT2_ProyectoVacio.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\UT2_ProyectoVacio\obj\x86\Debug\UT2_ProyectoVacio.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_ProyectoVacio\UT2_ProyectoVacio\obj\x86\Debug\UT2_ProyectoVacio.pdb

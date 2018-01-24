@@ -1,0 +1,10 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\bin\Debug\UT2_MDI.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\bin\Debug\UT2_MDI.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\bin\Debug\UT2_MDI.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_MDI\UT2_MDI\obj\x86\Debug\UT2_MDI.frnHijo.resources

@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\bin\Debug\UT2_Operaciones_Clases1.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\bin\Debug\UT2_Operaciones_Clases1.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\bin\Debug\UT2_Operaciones_Clases1.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\obj\x86\Debug\UT2_Operaciones_Clases1.Form1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\obj\x86\Debug\UT2_Operaciones_Clases1.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\obj\x86\Debug\UT2_Operaciones_Clases1.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\obj\x86\Debug\UT2_Operaciones_Clases1.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\obj\x86\Debug\UT2_Operaciones_Clases1.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_Operaciones_Clases1\UT2_Operaciones_Clases1\obj\x86\Debug\UT2_Operaciones_Clases1.pdb

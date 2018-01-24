@@ -1,0 +1,13 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\bin\Debug\UT2-Chapa_03-Clases III.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\bin\Debug\UT2-Chapa_03-Clases III.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\bin\Debug\UT2-Chapa_03-Clases III.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\bin\Debug\UT2-Chapa_03-Clases III-Libreria.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\bin\Debug\UT2-Chapa_03-Clases III-Libreria.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\bin\Debug\UT2-Chapa_03-Clases III-Libreria.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2-Chapa_03-Clases III.vbprojResolveAssemblyReference.cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2_Chapa_03_Clases_III.frnClases3.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2_Chapa_03_Clases_III.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2-Chapa_03-Clases III.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2-Chapa_03-Clases III.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2-Chapa_03-Clases III.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_03-Clases III\UT2-Chapa_03-Clases III\obj\x86\Debug\UT2-Chapa_03-Clases III.pdb

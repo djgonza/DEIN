@@ -177,4 +177,6 @@
     Private Sub btnClasificacion_Click(sender As System.Object, e As System.EventArgs) Handles btnClasificacion.Click
         frnClasi.ShowDialog()
     End Sub
+
+    
 End Class

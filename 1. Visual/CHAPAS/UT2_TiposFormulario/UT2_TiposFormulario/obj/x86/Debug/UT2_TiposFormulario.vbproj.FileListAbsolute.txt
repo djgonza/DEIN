@@ -1,0 +1,12 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\bin\Debug\UT2_TiposFormulario.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\bin\Debug\UT2_TiposFormulario.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\bin\Debug\UT2_TiposFormulario.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.AboutBox1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.LoginForm1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.SplashScreen1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_TiposFormulario\UT2_TiposFormulario\obj\x86\Debug\UT2_TiposFormulario.pdb

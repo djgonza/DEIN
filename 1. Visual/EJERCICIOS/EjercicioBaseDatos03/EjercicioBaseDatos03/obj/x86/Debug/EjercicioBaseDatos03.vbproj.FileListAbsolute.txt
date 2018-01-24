@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\bin\Debug\EjercicioBaseDatos03.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\bin\Debug\EjercicioBaseDatos03.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\bin\Debug\EjercicioBaseDatos03.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\obj\x86\Debug\EjercicioBaseDatos03.Form1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\obj\x86\Debug\EjercicioBaseDatos03.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\obj\x86\Debug\EjercicioBaseDatos03.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\obj\x86\Debug\EjercicioBaseDatos03.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\obj\x86\Debug\EjercicioBaseDatos03.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\EjercicioBaseDatos03\EjercicioBaseDatos03\obj\x86\Debug\EjercicioBaseDatos03.pdb

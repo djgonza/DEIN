@@ -1,0 +1,9 @@
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\obj\x86\Debug\_05_clases.Form1.resources
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\obj\x86\Debug\_05_clases.Resources.resources
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\obj\x86\Debug\05 clases.vbproj.GenerateResource.Cache
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\bin\Debug\05 clases.exe
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\bin\Debug\05 clases.pdb
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\bin\Debug\05 clases.xml
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\obj\x86\Debug\05 clases.exe
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\obj\x86\Debug\05 clases.xml
+C:\Visual_17_18\ACDA\Tema01\05 clases\05 clases\obj\x86\Debug\05 clases.pdb

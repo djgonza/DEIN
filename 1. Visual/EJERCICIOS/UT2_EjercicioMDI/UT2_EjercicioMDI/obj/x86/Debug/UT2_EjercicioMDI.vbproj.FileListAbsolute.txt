@@ -1,0 +1,14 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\bin\Debug\UT2_EjercicioMDI.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\bin\Debug\UT2_EjercicioMDI.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\bin\Debug\UT2_EjercicioMDI.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.frnMdi.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.SplashScreen1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.AboutBox1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.frnArticulos.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.frnClientes.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_EjercicioMDI\UT2_EjercicioMDI\obj\x86\Debug\UT2_EjercicioMDI.frnPedidos.resources

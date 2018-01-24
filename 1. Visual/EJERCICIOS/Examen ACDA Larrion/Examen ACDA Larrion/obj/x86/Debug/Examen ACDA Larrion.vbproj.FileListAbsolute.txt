@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\bin\Debug\Examen ACDA Larrion.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\bin\Debug\Examen ACDA Larrion.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\bin\Debug\Examen ACDA Larrion.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\obj\x86\Debug\Examen_ACDA_Larrion.Form1.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\obj\x86\Debug\Examen_ACDA_Larrion.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\obj\x86\Debug\Examen ACDA Larrion.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\obj\x86\Debug\Examen ACDA Larrion.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\obj\x86\Debug\Examen ACDA Larrion.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\Examen ACDA Larrion\Examen ACDA Larrion\obj\x86\Debug\Examen ACDA Larrion.pdb

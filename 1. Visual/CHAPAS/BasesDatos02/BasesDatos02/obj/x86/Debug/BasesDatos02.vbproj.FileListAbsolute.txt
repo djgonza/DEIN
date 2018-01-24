@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\bin\Debug\BasesDatos02.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\bin\Debug\BasesDatos02.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\bin\Debug\BasesDatos02.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\obj\x86\Debug\BasesDatos02.frnApuntes2.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\obj\x86\Debug\BasesDatos02.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\obj\x86\Debug\BasesDatos02.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\obj\x86\Debug\BasesDatos02.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\obj\x86\Debug\BasesDatos02.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos02\BasesDatos02\obj\x86\Debug\BasesDatos02.pdb

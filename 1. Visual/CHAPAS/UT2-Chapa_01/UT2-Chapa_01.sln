@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UT2-Chapa_01", "UT2-Chapa_01\UT2-Chapa_01.vbproj", "{FFC79B4F-761D-4E8A-B21F-6130D3458918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC79B4F-761D-4E8A-B21F-6130D3458918}.Debug|x86.ActiveCfg = Debug|x86
+		{FFC79B4F-761D-4E8A-B21F-6130D3458918}.Debug|x86.Build.0 = Debug|x86
+		{FFC79B4F-761D-4E8A-B21F-6130D3458918}.Release|x86.ActiveCfg = Release|x86
+		{FFC79B4F-761D-4E8A-B21F-6130D3458918}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

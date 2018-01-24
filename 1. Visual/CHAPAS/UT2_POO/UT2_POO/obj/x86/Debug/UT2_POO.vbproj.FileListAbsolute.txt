@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\bin\Debug\UT2_POO.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\bin\Debug\UT2_POO.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\bin\Debug\UT2_POO.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\obj\x86\Debug\UT2_POO.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\obj\x86\Debug\UT2_POO.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\obj\x86\Debug\UT2_POO.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\obj\x86\Debug\UT2_POO.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\obj\x86\Debug\UT2_POO.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2_POO\UT2_POO\obj\x86\Debug\UT2_POO.pdb

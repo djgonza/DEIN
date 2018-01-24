@@ -1,0 +1,11 @@
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\bin\Debug\UT2_inmobiliaria.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\bin\Debug\UT2_inmobiliaria.pdb
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\bin\Debug\UT2_inmobiliaria.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.frnPrincipal.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.frnAñadir.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.frnModificar.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.Resources.resources
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.exe
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.xml
+C:\DAM\DEIN\1. Visual\EJERCICIOS\UT2_inmobiliaria\UT2_inmobiliaria\obj\x86\Debug\UT2_inmobiliaria.pdb

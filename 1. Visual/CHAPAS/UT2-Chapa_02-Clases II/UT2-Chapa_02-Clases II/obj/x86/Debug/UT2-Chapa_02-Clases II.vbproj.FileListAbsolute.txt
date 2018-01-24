@@ -1,0 +1,13 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\bin\Debug\UT2-Chapa_02-Clases II.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\bin\Debug\UT2-Chapa_02-Clases II.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\bin\Debug\UT2-Chapa_02-Clases II.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\bin\Debug\FiguraGeometrica.dll
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\bin\Debug\FiguraGeometrica.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\bin\Debug\FiguraGeometrica.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2-Chapa_02-Clases II.vbprojResolveAssemblyReference.cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2_Chapa_02_Clases_II.frnClasesII.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2_Chapa_02_Clases_II.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2-Chapa_02-Clases II.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2-Chapa_02-Clases II.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2-Chapa_02-Clases II.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\UT2-Chapa_02-Clases II\UT2-Chapa_02-Clases II\obj\x86\Debug\UT2-Chapa_02-Clases II.pdb

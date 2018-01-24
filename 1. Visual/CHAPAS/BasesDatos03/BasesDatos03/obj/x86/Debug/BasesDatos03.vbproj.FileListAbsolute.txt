@@ -1,0 +1,9 @@
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\bin\Debug\BasesDatos03.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\bin\Debug\BasesDatos03.pdb
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\bin\Debug\BasesDatos03.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\obj\x86\Debug\BasesDatos03.Form1.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\obj\x86\Debug\BasesDatos03.Resources.resources
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\obj\x86\Debug\BasesDatos03.vbproj.GenerateResource.Cache
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\obj\x86\Debug\BasesDatos03.exe
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\obj\x86\Debug\BasesDatos03.xml
+C:\DAM\DEIN\1. Visual\CHAPAS\BasesDatos03\BasesDatos03\obj\x86\Debug\BasesDatos03.pdb
